@@ -1,0 +1,5 @@
+
+[*]
+
+# Microsoft .NET properties
+csharp_space_after_cast = true
